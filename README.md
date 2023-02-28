@@ -1,9 +1,8 @@
 # Stereogame
 
-Projet PAF 2022 - Telecom Paris
+Project PAF 2022 - Telecom Paris
 
-L'objectif est de créer un jeu vidéo prenant avantage de l'écran à 3D autostéréoscopique d'Alioscopy 1920 * 1080.
+The objective was to create a video game that is suited for a 3D TV. Hence, we chose to develop a two-player game that looks like a tennis game, but with bats instead of rackets, and where each player defend his goal.
+There is also a mystery box that displays some special effects when we hit it with the ball.
 
-Une démo d'image 3D est disponible en lançant `demo_planetImage.py` depuis la racine du dépot.
-
-Une démo d'objets en mouvements est disponible en lançant `demo_scene.py` depuis la racine du dépot
+Enjoy 😊 !
