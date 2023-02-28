@@ -1,4 +1,4 @@
-# Stereogame
+# Stereogame 🥎 🏏
 
 Project PAF 2022 - Telecom Paris
 
